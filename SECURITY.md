@@ -4,7 +4,7 @@
 
 Please read the guidelines [on the
 official website](https://www.python.org/dev/security/) for
-instructions on how to report a security issues to
+instructions on how to report a security issue to
 the Python team responsibly.
 
 To reach the response team, email 
