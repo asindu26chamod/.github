@@ -1,2 +1,4 @@
-custom: https://www.python.org/psf/donations/python-dev/
-github: [python]
+custom: https://www.python.orggit add filename.txt         # Stage a specific file
+git add .                    # Stage all changes in the current directory
+github: git add filename.txt         # Stage a specific file
+git add .                    # Stage all changes in the current directory
